@@ -1,0 +1,132 @@
+  
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+header.masthead .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+.header-bg-dark{
+    background-color: #4267B2!important;
+}
+.showcase .container {
+  min-height: 350px;
+  background-color: #F9F9F9;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.call-to-action {
+  position: relative;
+  background-color: #343a40;
+  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.call-to-action .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+
+.bg-login-page {
+  background-color: #4267B2;
+}
+
+.padall {
+  padding: 3px;
+}
+
+.contact-info{
+    color: #FFFFFF;
+    margin-top:10%;
+  }
+  .contact-info img{
+    margin-bottom: 15%;
+  }
+  .contact-info h2{
+    margin-bottom: 10%;
+  }
+  .col-md-left{
+    background: #4267B2;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+
+    
+  }
+
+  .col-md-right{
+    background: #FFFFFF;
+    padding: 3%;
+    border: 1px solid #DDDDDD;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+  }
+  .contact-form label{
+    font-weight:600;
+  }
+  .contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+  }
+  .contact-form button:focus{
+    box-shadow:none;
+  }
+  
+footer.footer {  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.footer-bg-dark {
+    background-color: #4267B2!important;
+}
+.list-inline {
+ list-style-type: none;
+}
+
+.list-inline-item a {
+    color:#FFFFFF;
+}
+padding-bottom: 1rem;
+}
+
+
